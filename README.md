@@ -2,7 +2,7 @@
 
 This is an Android Studio project that demonstrates the use of Bottom Navigation View.
 
-![bottom_nav_com](https://github.com/MahdiAhmadnejad/Bottom-Navigation-Component-android/assets/53077144/5fec2ca8-2010-4607-95a6-2cf1c5b06370)
+![bottom_nav_com](/preview/bottom_nav_com.gif)
 
 ## Description
 
