@@ -37,8 +37,3 @@ Please make sure to update tests as appropriate.
 - Android Developers (https://developer.android.com/reference/com/google/android/material/bottomnavigation/BottomNavigationView) for the documentation on Bottom Navigation View
 - [Youtube](https://youtu.be/Chso6xrJ6aU?si=Of3Bpc8SHOoUkOOk)
 
-## License
-
-[![MIT License]]
-
-This project is licensed under the MIT License.
