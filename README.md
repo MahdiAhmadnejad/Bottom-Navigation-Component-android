@@ -2,7 +2,7 @@
 
 This is an Android Studio project that demonstrates the use of Bottom Navigation View.
 
-![Screenshot]
+![bottom_nav_com](https://github.com/MahdiAhmadnejad/Bottom-Navigation-Component-android/assets/53077144/5fec2ca8-2010-4607-95a6-2cf1c5b06370)
 
 ## Description
 
@@ -14,18 +14,11 @@ Bottom Navigation View is a material component that makes it easy to explore and
 - **Populates the bar contents** using a menu resource file
 - **Displays menu item title, icon, and enabled state** for each bottom navigation bar item
 
-## Installation
-
-bash
 # Clone the repository
 git clone https://github.com/yourusername/bottom-navigation-component.git
 
 # Open the project in Android Studio
 File -> Open -> Select the project folder
-
-# Build and run the project on an emulator or physical device
-Run -> Run app
-
 
 ## Usage
 
